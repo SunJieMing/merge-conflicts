@@ -1,7 +1,7 @@
+# merge-conflicts
+
 This is my local info
 
+This is my initial information.
 
-this is different from the GitHub copy
-
-
-There will be conflicts
+This will be different from the local copy.
